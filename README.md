@@ -16,5 +16,8 @@ This project is a multithreaded port scanner written in Python. It allows you to
 2. __Queue-Based Scanning__: Each port in the specified range is added to a queue. Worker threads pick ports from the queue and attempt to connect to them.
 3. __Output__: The program displays a list of open ports along with their detected services (if available).
 
+## References:
+YouTube: [DIY Python PORT SCANNER | LIKE NMAP](https://youtu.be/XGFDXGyd7Uw?si=1qmVieuHT0BFr4za)
+
 > [!CAUTION]
 > ***Legal Disclaimer***: This python script is intended for educational purposes only. Do not attempt to use this script with malicious intent. 
